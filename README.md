@@ -15,7 +15,3 @@ mvn clean install
 java -jar target/bfhl-webhook-app-1.0.0.jar
 ```
 
-## Final Submission
-
-- GitHub Repo: https://github.com/your-username/bfhl-webhook-app
-- Public JAR Download: https://github.com/your-username/bfhl-webhook-app/releases/download/v1.0.0/bfhl-webhook-app-1.0.0.jar
